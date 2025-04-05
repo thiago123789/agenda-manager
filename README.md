@@ -31,7 +31,7 @@ Manage agenda, person availability and integration with google calendar
       - Weekly
       - Monthly
       - Biweekly
-      - Anually
+      - Annually
     - Google calendar integration
       - If the time is blocked/busy on my google agenda it should not appear on my availability agenda.
      
